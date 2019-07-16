@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "Welcome to Yicong's Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2019-07-16 01:23:00
+author:     "cy1c0n9"
+header-img: "img/post-bg-2019.jpg"
+tags:
+    - lifeline
+---
+
+> “Yeah It's on. ”
+
+
+## 正文
+
+
+嗨。。~~这里是个不爱说话的人~~
+
+一直想搭个博客可是又**懒**
+
+= =
+
+要不猜猜这个博客能活到多久吧？
+
+
+
+---
