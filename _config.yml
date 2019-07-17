@@ -3,7 +3,7 @@ title: Yicong
 SEOTitle: YC的博客 | Yicong's Blog
 header-img: img/home-bg.jpg
 email: cy1c0n9@gmail.com
-description: ""
+description: "----"
 keyword: ""
 url: "not implement yet"              # your host, for absolute URL
 baseurl: ""          # for example, '/blog' if your blog hosted on 'host/blog'
@@ -25,6 +25,7 @@ facebook_username:  Yicong Chen
 highlighter: rouge
 permalink: pretty
 paginate: 10
+timezone: Europe/London
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
